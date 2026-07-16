@@ -1,0 +1,6 @@
+{
+  "name": "UH Urban Hairstylin",
+  "description": "Premium Barbering Shop in New Sebrepor, Tema, Ghana. Expert haircuts, taper fades, beard sculpts, and professional grooming by Prince.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
